@@ -4,3 +4,7 @@ A resource for FiveM that can handle playing emotes in game by reading from a co
 # Install
 - Download from the releases section and unzip then put the resource in your resources folder in your fivem server
 - ESX is not a requirement as it was tested with and without it seems to work fine
+
+# Usage
+- Commands /e /emote {Emote Name} (plays an emote) /c /cancelemote (Cancels all the currently playing animations)
+- Exports playAnimationCommand(string emote) stopAllPedAnimations(int ped)
