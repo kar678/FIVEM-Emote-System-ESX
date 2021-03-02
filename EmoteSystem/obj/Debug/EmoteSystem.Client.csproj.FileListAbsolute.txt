@@ -1,0 +1,11 @@
+C:\Users\kar67\Documents\FiveM Projects\EmoteSystem\EmoteSystem\bin\Debug\EmoteSystem.Client.net.dll
+C:\Users\kar67\Documents\FiveM Projects\EmoteSystem\EmoteSystem\bin\Debug\EmoteSystem.Client.net.pdb
+C:\Users\kar67\Documents\FiveM Projects\EmoteSystem\EmoteSystem\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\kar67\Documents\FiveM Projects\EmoteSystem\EmoteSystem\bin\Debug\CitizenFX.Core.Client.xml
+C:\Users\kar67\Documents\FiveM Projects\EmoteSystem\EmoteSystem\obj\Debug\EmoteSystem.Client.csproj.CoreCompileInputs.cache
+C:\Users\kar67\Documents\FiveM Projects\EmoteSystem\EmoteSystem\obj\Debug\EmoteSystem.Client.csproj.CopyComplete
+C:\Users\kar67\Documents\FiveM Projects\EmoteSystem\EmoteSystem\obj\Debug\EmoteSystem.Client.net.dll
+C:\Users\kar67\Documents\FiveM Projects\EmoteSystem\EmoteSystem\obj\Debug\EmoteSystem.Client.net.pdb
+C:\Users\kar67\Documents\FiveM Projects\EmoteSystem\EmoteSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kar67\Documents\FiveM Projects\EmoteSystem\EmoteSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kar67\Documents\FiveM Projects\EmoteSystem\EmoteSystem\obj\Debug\EmoteSystem.Client.csprojAssemblyReference.cache
