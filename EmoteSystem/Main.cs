@@ -33,7 +33,7 @@ namespace EmoteSystem.Client
             //Event Handlers
             EventHandlers["onClientResourceStart"] += new Action<string>(OnClientResourceStart);
             EventHandlers["esx:onPlayerDeath"] += new Action<object>(OnPlayerDeath);
-            EventHandlers["esx:onPlayerSpawn"] += new Action<object>(OnPlayerSpawn);
+            EventHandlers["playerSpawned"] += new Action<dynamic>(OnPlayerSpawn);
 
             Exports.Add("playAnimationCommand", new Action<string>(PlayAnimationWithCommandName));
             Exports.Add("stopAllPedAnimations", new Action<int>(StopAllPedAnimations));
